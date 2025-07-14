@@ -1,9 +1,9 @@
-*{
+* {
   /* fonts */
   font-family: "Poppins", sans-serif;
 }
 
-.h-font{
+.h-font {
   font-family: "Croissant One", serif;
 }
 
@@ -13,6 +13,29 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
 input[type=number] {
   -moz-appearance: textfield;
+}
+
+.custom-bg {
+  background-color: #2ec1ac;
+}
+
+.custom-bg:hover {
+  background-color: #279e8c;
+}
+
+.availability-form {
+  margin-top: -50px;
+  z-index: 2;
+  position: relative;
+}
+
+/* media screen */
+@media screen and (max-width: 575px) {
+  .availability-form {
+    margin-top: 25px;
+    padding: 0 35px;
+  }
 }
