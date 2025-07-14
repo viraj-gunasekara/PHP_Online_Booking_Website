@@ -29,7 +29,7 @@
             <span class="badge rounded-pill bg-light text-dark text-wrap">Wifi</span>
             <span class="badge rounded-pill bg-light text-dark text-wrap">Television</span>
             <span class="badge rounded-pill bg-light text-dark text-wrap">AC</span>
-            <span class="badge rounded-pill bg-light text-dark text-wrap">Hot Water</span>
+            <span class="badge rounded-pill bg-light text-dark text-wrap">Geyser</span>
           </div>
           <!-- rating -->
            <div class="facilities mb-4">
@@ -79,7 +79,7 @@
             <span class="badge rounded-pill bg-light text-dark text-wrap">Wifi</span>
             <span class="badge rounded-pill bg-light text-dark text-wrap">Television</span>
             <span class="badge rounded-pill bg-light text-dark text-wrap">AC</span>
-            <span class="badge rounded-pill bg-light text-dark text-wrap">Hot Water</span>
+            <span class="badge rounded-pill bg-light text-dark text-wrap">Geyser</span>
           </div>
           <!-- rating -->
            <div class="facilities mb-4">
@@ -129,7 +129,7 @@
             <span class="badge rounded-pill bg-light text-dark text-wrap">Wifi</span>
             <span class="badge rounded-pill bg-light text-dark text-wrap">Television</span>
             <span class="badge rounded-pill bg-light text-dark text-wrap">AC</span>
-            <span class="badge rounded-pill bg-light text-dark text-wrap">Hot Water</span>
+            <span class="badge rounded-pill bg-light text-dark text-wrap">Geyser</span>
           </div>
           <!-- rating -->
            <div class="facilities mb-4">
@@ -158,5 +158,3 @@
     </div>
   </div>
 </div>
-
-<br><br><br>

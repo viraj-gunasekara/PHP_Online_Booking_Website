@@ -24,6 +24,8 @@
    <?php include 'components/availability_form.php'; ?>
   <!-- room cards -->
    <?php include 'components/room_cards.php'; ?>
+  <!-- facilities -->
+   <?php include 'components/our_facilities.php'; ?>
 
 
   
