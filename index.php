@@ -22,7 +22,8 @@
    <?php include 'components/home_carousel.php'; ?>
   <!-- check booking availability form -->
    <?php include 'components/availability_form.php'; ?>
-
+  <!-- room cards -->
+   <?php include 'components/room_cards.php'; ?>
 
 
   

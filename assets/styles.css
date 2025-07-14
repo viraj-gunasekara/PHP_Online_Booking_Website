@@ -20,6 +20,7 @@ input[type=number] {
 
 .custom-bg {
   background-color: #2ec1ac;
+  border: 1px solid #50ffe5;
 }
 
 .custom-bg:hover {
