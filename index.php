@@ -26,6 +26,8 @@
    <?php include 'components/room_cards.php'; ?>
   <!-- facilities -->
    <?php include 'components/our_facilities.php'; ?>
+  <!-- testimonials -->
+   <?php include 'components/testimonials.php'; ?>
 
 
   
