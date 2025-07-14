@@ -40,3 +40,8 @@ input[type=number] {
     padding: 0 35px;
   }
 }
+
+/* Testimonials */
+.swiper-testimonials img{
+  border-radius: 50%;
+}
