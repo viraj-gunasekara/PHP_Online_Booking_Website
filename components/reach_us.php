@@ -10,12 +10,12 @@
       <!-- call -->
       <div class="bg-white p-4 rounded mb-4">
         <h5>Call Us</h5>
-        <a href="tel: +94718889997" class="d-inline-block mb-2 text-decoration-none text-dark">
-          <i class="bi bi-telephone-fill me-1"></i> +94718889997
+        <a href="tel: +94771234567" class="d-inline-block mb-2 text-decoration-none text-dark">
+          <i class="bi bi-telephone-fill me-1"></i> +94 77 123 4567
         </a>
         <br>
         <a href="tel: +94718889997" class="d-inline-block text-decoration-none text-dark">
-          <i class="bi bi-telephone-fill me-1"></i> +94718889997
+          <i class="bi bi-telephone-fill me-1"></i> +94 71 888 9997
         </a>
       </div>
       <!-- social -->
