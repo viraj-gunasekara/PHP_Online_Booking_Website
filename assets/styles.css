@@ -18,6 +18,7 @@ input[type=number] {
   -moz-appearance: textfield;
 }
 
+/* custom button */
 .custom-bg {
   background-color: #2ec1ac;
   border: 1px solid #50ffe5;
