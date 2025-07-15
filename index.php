@@ -28,6 +28,10 @@
    <?php include 'components/our_facilities.php'; ?>
   <!-- testimonials -->
    <?php include 'components/testimonials.php'; ?>
+  <!-- reach us -->
+   <?php include 'components/reach_us.php'; ?>
+  <!-- footer -->
+   <?php include 'components/footer.php'; ?>
 
 
   

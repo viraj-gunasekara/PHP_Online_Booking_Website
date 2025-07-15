@@ -84,6 +84,9 @@
     </div>
     <div class="swiper-pagination"></div>
   </div>
-
+    <!-- more -->
+    <div class="col-lg-12 text-center mt-4">
+      <a href="#" class="btn btn-sm btn-outline-dark rounded-0 fw-bold shadow-none">View More Reviews >>></a>
+    </div>
   </div>
 </div>

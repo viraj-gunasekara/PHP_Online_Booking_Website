@@ -4,27 +4,27 @@
 <div class="container">
   <div class="row justify-content-evenly px-lg-0 px-md-0 px-5">
     <!-- facility -->
-    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3 facility-card">
       <img src="/images/facilities/wifi.svg" width="120px">
       <h5 class="mt-3">Wifi</h5>
     </div>
     <!-- facility -->
-    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3 facility-card">
       <img src="/images/facilities/television.svg" width="120px">
       <h5 class="mt-3">Television</h5>
     </div>
     <!-- facility -->
-    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3 facility-card">
       <img src="/images/facilities/aircon.svg" width="120px">
       <h5 class="mt-3">Air Conditioner</h5>
     </div>
     <!-- facility -->
-    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3 facility-card">
       <img src="/images/facilities/minibar.svg" width="120px">
       <h5 class="mt-3">Minibar</h5>
     </div>
     <!-- facility -->
-    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3">
+    <div class="col-lg-2 col-md-2 text-center bg-white rounded shadow py-4 my-3 facility-card">
       <img src="/images/facilities/Geyser.svg" width="120px">
       <h5 class="mt-3">Geyser</h5>
     </div>
