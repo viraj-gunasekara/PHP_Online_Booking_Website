@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>RoomieBooking</title>
+  <title>RoomieBooking - Home</title>
   <!-- links -->
    <?php require('assets/links.php') ?>
 </head>
