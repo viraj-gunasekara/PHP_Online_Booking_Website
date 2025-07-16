@@ -44,5 +44,29 @@ document.addEventListener("DOMContentLoaded", function () {
       },
     },
   });
+
+  // About Swiper
+  var swiper = new Swiper(".about-swiper", {
+    slidesPerView: 4,
+    spaceBetween: 40,
+    loop: true,
+      pagination: {
+        el: ".swiper-pagination",
+      },
+      breakpoints: {
+      320: {
+        slidesPerView: 1,
+      },
+      640: {
+        slidesPerView: 2,
+      },
+      768: {
+        slidesPerView: 3,
+      },
+      1024: {
+        slidesPerView: 4,
+      },
+    },
+    });
 });
 

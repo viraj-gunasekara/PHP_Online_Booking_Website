@@ -71,13 +71,13 @@ input[type=number] {
     padding: 20px;
   }
 
-  .container-fluid h5,
-  .container-fluid h3 {
+  .my-footer h5,
+  .my-footer h3 {
     text-align: center;
   }
 
-  .container-fluid a,
-  .container-fluid p {
+  .my-footer a,
+  .my-footer p {
     text-align: center !important;
     display: block !important;
   }
@@ -93,6 +93,10 @@ input[type=number] {
 
   .text-section{
     padding-bottom: .5rem !important;
+  }
+
+  .credit{
+    font-size: 0.95rem;
   }
 }
 
@@ -115,4 +119,18 @@ input[type=number] {
   border-top-color: var(--teal) !important;
   transform: scale(1.03);
   transition: all 0.3s;
+}
+
+/* about us */
+.about-box{
+  border-top-color: var(--teal) !important;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 400px; 
+  object-fit: cover;
+  object-position: top;
+  margin: 0 auto;
+  display: block;
 }

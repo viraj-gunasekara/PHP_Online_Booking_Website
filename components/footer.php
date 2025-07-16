@@ -1,4 +1,4 @@
-<div class="container-fluid bg-white mt-5">
+<div class="container-fluid bg-white mt-5 my-footer">
   <div class="row">
     <!-- col1 -->
     <div class="text-section col-lg-4 col-md-6 col-sm-12 p-4">
@@ -50,7 +50,7 @@
 
 
 <!-- bottom -->
- <h6 class="text-center bg-dark text-white p-3 m-0">
+ <h6 class="credit text-center bg-dark text-white p-3 m-0">
   Designed and Developed by Viraj Gunasekara
  </h6>
 
