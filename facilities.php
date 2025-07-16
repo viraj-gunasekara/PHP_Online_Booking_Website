@@ -15,8 +15,7 @@
     <h2 class="fw-bold h-font text-center">OUR FACILITIES</h2>
     <div class="h-line bg-dark"></div>
     <p class="text-center mt-3">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, rem molestias.
-      <br>Reprehenderit harum deleniti nemo sapiente eum.
+      We offer a wide range of facilities to meet your travel needs. <br> Whether you're here for business or leisure. Explore our well-maintained spaces <br> and services that ensure convenience, comfort, and satisfaction throughout your stay.
     </p>
    </div>
 
@@ -30,7 +29,7 @@
             <h5 class="m-0 ms-3">Wifi</h5>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores molestiae reiciendis accusantium nam velit sed.
+            Stay connected throughout your stay with our high-speed WiFi, available in all rooms and public areas. Perfect for streaming, working remotely, or keeping in touch with family and friends.
           </p>
         </div>
       </div>
@@ -42,7 +41,7 @@
             <h5 class="m-0 ms-3">Air Condition</h5>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores molestiae reiciendis accusantium nam velit sed.
+            Enjoy optimal comfort with individually controlled air conditioning in every room. Whether it’s a warm summer day or a cool evening, your environment is always just right.
           </p>
         </div>
       </div>
@@ -54,7 +53,7 @@
             <h5 class="m-0 ms-3">Mini Bar</h5>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores molestiae reiciendis accusantium nam velit sed.
+            Refresh and indulge with a variety of drinks and snacks from our in-room mini bar. Carefully stocked for your convenience, anytime you need a quick treat or beverage.
           </p>
         </div>
       </div>
@@ -66,7 +65,7 @@
             <h5 class="m-0 ms-3">Geyser</h5>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores molestiae reiciendis accusantium nam velit sed.
+            Hot water is always available with our modern geyser system. Whether it’s a refreshing shower or a relaxing soak, you’ll have reliable hot water on demand.
           </p>
         </div>
       </div>
@@ -78,7 +77,7 @@
             <h5 class="m-0 ms-3">Television</h5>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores molestiae reiciendis accusantium nam velit sed.
+            Each room is equipped with a flat-screen TV offering a wide range of local and international channels, so you can unwind with your favorite shows after a busy day.
           </p>
         </div>
       </div>
@@ -90,7 +89,7 @@
             <h5 class="m-0 ms-3">Spa & Sauna</h5>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores molestiae reiciendis accusantium nam velit sed.
+            Relax and recharge in our on-site spa and sauna. A perfect escape after travel or exploration, designed to soothe your body and mind in tranquil surroundings.
           </p>
         </div>
       </div>
@@ -102,7 +101,7 @@
             <h5 class="m-0 ms-3">Swimming Pool</h5>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores molestiae reiciendis accusantium nam velit sed.
+            Take a dip in our clean and refreshing swimming pool, ideal for both relaxation and exercise. Lounge poolside with a drink or enjoy a morning swim before your day.
           </p>
         </div>
       </div>
@@ -114,7 +113,7 @@
             <h5 class="m-0 ms-3">Airport Shuttle</h5>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores molestiae reiciendis accusantium nam velit sed.
+            We offer free airport shuttle services for easy arrivals and departures. Our professional team will get you to and from the airport safely and on time.
           </p>
         </div>
       </div>
@@ -126,7 +125,7 @@
             <h5 class="m-0 ms-3">Room Service</h5>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores molestiae reiciendis accusantium nam velit sed.
+            Enjoy delicious meals and drinks from the comfort of your room with our 24/7 room service. Quick, courteous, and always convenient for your in-room dining needs.
           </p>
         </div>
       </div>
