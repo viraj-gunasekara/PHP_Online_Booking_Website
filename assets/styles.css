@@ -126,11 +126,16 @@ input[type=number] {
   border-top-color: var(--teal) !important;
 }
 
-.swiper-slide img {
+.about-swiper .swiper-slide img {
   width: 100%;
   height: 400px; 
   object-fit: cover;
   object-position: top;
   margin: 0 auto;
   display: block;
+}
+
+/* contact us */
+.msg-section textarea{
+  resize: none;
 }
