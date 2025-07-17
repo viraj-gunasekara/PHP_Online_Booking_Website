@@ -1,0 +1,44 @@
+:root{
+  --teal: #2ec1ac;
+  --teal_hover: #279e8c;
+  --teal_border: #50ffe5;
+}
+
+* {
+  /* fonts */
+  font-family: "Poppins", sans-serif;
+}
+
+.h-font {
+  font-family: "Croissant One", serif;
+}
+
+/* Hide Arrows From Form Input Number  */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/* custom button */
+.custom-bg {
+  background-color: var(--teal);
+  border: 1px solid var(--teal_border);
+}
+
+.custom-bg:hover {
+  background-color: var(--teal_hover);
+}
+
+/* login page */
+div.login-form{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+}
