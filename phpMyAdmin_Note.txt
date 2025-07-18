@@ -1,0 +1,9 @@
+*create phpMyAdmin DB -> booking_website
+*create table -> admin_crud  //3 columns
+*create columns -> 
+sr_no  	INT //auto increment on
+admin_name 	VARCHAR		150
+admin_pass 	VARCHAR		150
+
+*Insert hardcoded admin data
+=> INSERT INTO `admin_crud`(`admin_name`, `admin_pass`) VALUES ('virajsg','viraj123')
