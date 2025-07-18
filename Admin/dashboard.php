@@ -13,11 +13,17 @@
    <?php require('admin_assets/links.php') ?>
 </head>
 <body class="bg-light">
-  
-  <div class="contanier-fluid bg-dark text-light p-3 d-flex align-items-center justify-content-between">
-    <h3 class="mb-0">ADMIN DASHBOARD</h3>
-    <a href="logout.php" class="btn btn-light btn-sm">LOG OUT</a>
-  </div>
+  <!-- header & sidebar -->
+   <?php require('admin_assets/header_sidebar.php') ?>
+
+   <!-- main content -->
+   <div class="container-fluid" id="main-content">
+    <div class="row">
+      <div class="col-lg-10 ms-auto p-4 overflow-hidden">
+        body
+      </div>
+    </div>
+   </div>
 
   <!-- scripts -->
    <?php require('admin_assets/scripts.php') ?>
